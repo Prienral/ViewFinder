@@ -1,2 +1,2 @@
-Andriod
-拍照预览
+# Andriod
++ 拍照预览
